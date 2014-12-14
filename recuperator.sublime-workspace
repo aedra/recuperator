@@ -1,0 +1,287 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/swlee/Dropbox/10-Work/80-Script/xpdp/ptsgcodes/xpdp1/src/argonmcc.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/xpdp/ptsgcodes/xpdp1/inp/rfda.inp",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/src/initwin.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/src/pdp1.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/src/xsect.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/src/argonmcc.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/src/gather.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/src/mcc.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/src/start.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/src/field.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/src/move.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/src/padjus.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/inp/rfda-swlee.inp",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/inp/rfdh.inp",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/pdp2/src_2.3/README_V2.3",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/pdp2/src_2.3/inp/argon.inp",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/doc/xpdp1_manual.toc",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/doc/xpdp1_manual.tex",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp2-old/inp/argon.inp",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/TODO",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/inp/child.inp",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp1/inp/maxwella.inp",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdp2/README_V2.3",
+		"/Users/swlee/Dropbox/10-Work/80-Script/xpdp/ptsgcodes/xpdc1_pulse/inp/pulse_50khz_50pct_1us-rise_20mTorr.inp",
+		"/Users/swlee/Dropbox/10-Work/80-Script/xpdp/ptsgcodes/xpdc1_pulse/inp/pulse_50khz_50pct_1us-rise.inp",
+		"/Users/swlee/Dropbox/10-Work/80-Script/xpdp/ptsgcodes/xpdc1_pulse/src/wall.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/xpdp/ptsgcodes/xpdc1_pulse/src/pdc1.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/xpdp/ptsgcodes/xpdc1_pulse/src/initwin.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/xpdp/ptsgcodes/xpdc1_pulse/src/diagnostics.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/xpdp/ptsgcodes/xpdc1_pulse/inp/pulse_50khz_50pct_2us-rise_2MHz.inp",
+		"/Users/swlee/Downloads/ptsgcodes/xes1/es1.c",
+		"/Users/swlee/Downloads/ptsgcodes/xpdp2/README_V2.3",
+		"/Users/swlee/Downloads/ptsgcodes/xpdc1/src/pdc1.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/xpdp/ptsgcodes/xpdc1_pulse/src/pdc1.h",
+		"/Users/swlee/Dropbox/10-Work/80-Script/xpdp/ptsgcodes/xpdc1_pulse/src/rescale.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/xpdp/ptsgcodes/xpdc1_pulse/src/start.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdc1_pulse/swlee.csv",
+		"/Users/swlee/Dropbox/Private/myProject/recuperator/packetlog-recuperator.txt",
+		"/Users/swlee/Dropbox/Private/myProject/roomheater/datalog-20141125/output-num.txt",
+		"/Users/swlee/Dropbox/Private/myProject/roomheater/datalog-20141125/data1.txt",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdc1_pulse_2/src/field.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdc1_pulse_2/inp/rfda_50khz.inp",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdc1_pulse_2/src/pdc1.h",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdc1_pulse_2/src/diagnostics.o.gz",
+		"/Users/swlee/Desktop/brewUpdateSummary.txt",
+		"/Users/swlee/Desktop/brewUpdateSummary",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdc1/inp/rfda-original (copy).inp",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdc1_pulse_atr/inp/rfda.inp",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdc1_pulse/src/pdc1.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdc1_pulse/xpdc1_pulse",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdc1_pulse/src/argonmcc_hbs.c",
+		"/Users/swlee/Dropbox/10-Work/80-Script/XPDP/ptsgcodes/xpdc1_pulse/inp/rfda.inp",
+		"/Users/swlee/Desktop/data.txt",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#10/packet_logging-Recuperator.py",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#8/packetlog-recuperator.txt",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#7/packet_logging-Recuperator.py",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#2/logserial3-2400.py",
+		"/Users/swlee/Desktop/logserial3-2400.py",
+		"/Users/swlee/Desktop/logserial3.py",
+		"/Users/swlee/Desktop/packet_logging.py",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#1/logserial3.py",
+		"/Users/swlee/Downloads/packetlog1.txt",
+		"/Users/swlee/Downloads/packetlog2.txt",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#0/packet_logging.py",
+		"/Users/swlee/Dropbox/Private/myProject/난방조절기제어/datalog-20141125/numbering.py",
+		"/Users/swlee/Dropbox/Private/myProject/난방조절기제어/logserial4.py",
+		"/Users/swlee/Dropbox/Private/myProject/난방조절기제어/logserial3.py",
+		"/Users/swlee/Dropbox/Private/myProject/난방조절기제어/datalog-20141125/output-num.txt",
+		"/Users/swlee/Desktop/output-raw.txt",
+		"/Users/swlee/Downloads/arrange.py",
+		"/Users/swlee/Desktop/logserial.py",
+		"/Users/swlee/Downloads/output.txt",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#21/datalogging.c",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#19/logserial2.py",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#14/cs.c",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#12/test2.c",
+		"/Users/swlee/Desktop/cs.c",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#11/logserial.py",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#10/logserial.py",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#9/logserial.py",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#7/wfi.c",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#6/serialTest.c",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#5/serialRead.c",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#4/delayTest.c",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#3/test2.c",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#2/logserial.py",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#1/logserial.py",
+		"/Users/swlee/Library/Caches/com.binarynights.ForkLift2/#0/test2.c",
+		"/Users/swlee/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/37C48A8D-9456-4C79-9155-13A3B893F107/v3_81_4/README.txt",
+		"/Users/swlee/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/813324E5-CB83-433F-80C6-4BE30106201C/README.txt",
+		"/Users/swlee/Dropbox/10-Work/10-Operation/20-Development/2015/ERP업무/한윤석 책임 의견",
+		"/Users/swlee/Downloads/call_or_sms_contact.alfredworkflow",
+		"/Users/swlee/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/swlee/Dropbox/10-Work/10-Operation/00-업무보고서/부서/20141011/matcher",
+		"/Users/swlee/Dropbox/10-Work/10-Operation/20-Development/2015/교육계획/기구설계 Lab 차년도 교육 계획",
+		"/Users/swlee/Downloads/오전에 애 우는것 때문에 글이 많이 있었네요.",
+		"/Users/swlee/Downloads/IEDFsim/code/NIEA_Modeling.c",
+		"/Users/swlee/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/FFFB0E00-F483-4E91-A1B0-0CC10039F964/Matchwork.cpp",
+		"/Users/swlee/Dropbox/10-Work/80-Script/NIEA/IEDFSim/test.txt",
+		"/Users/swlee/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/B8FEE712-FE60-41ED-94F8-D31C10A284D1/CFG SN 030025567.txt",
+		"/Volumes/USB001/20140714_321828.bin",
+		"/Users/swlee/Library/Preferences/VMware Fusion/preferences",
+		"/Users/swlee/Library/Preferences/VMware Fusion/preferences-private",
+		"/Applications/ForkLift.app/Contents/Resources/OpenInTerminal.applescript",
+		"/Users/swlee/Dropbox/10-Work/60-TechnicalInformation/CIC filter response/plot_CIC_response.m",
+		"/Users/swlee/Downloads/무제 폴더 2/s400kHz_loadpull_plot.m",
+		"/Users/swlee/README",
+		"/Users/swlee/profile_default/startup/README",
+		"/Users/swlee/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/2E61A566-B575-49A4-B3DA-E49791FA2F67/Re_ .eml",
+		"/Users/swlee/Desktop/Fwd_ .eml",
+		"/Users/swlee/Dropbox/10-Work/90-Snippet/stylesheet002.css",
+		"/Users/swlee/Desktop/server.py",
+		"/Users/swlee/Downloads/qtiplot-0.9.8.9/build.conf",
+		"/Users/swlee/Desktop/tttt.py",
+		"/Users/swlee/Downloads/qtiplot-0.9.8.9/build.conf.example",
+		"/Users/swlee/Desktop/test1.py",
+		"/Users/swlee/Desktop/test.py",
+		"/Users/swlee/Downloads/xkcd.py",
+		"/Users/swlee/bin/run_ipython.sh",
+		"/Users/swlee/Dropbox/Private/myProject/Arduino/libraries/readme.txt",
+		"/Volumes/CapricaShared/00-inbox/BitLocker 복구 키 7E8551C7-3459-45A9-980F-76848FD753E6.txt",
+		"/Users/swlee/Desktop/history_for_scipy.txt",
+		"/Volumes/wxPython3.0-osx-3.0.0.0-cocoa-py2.7/README 1st.txt",
+		"/Users/swlee/Desktop/EM.csv",
+		"/Users/swlee/Desktop/test.csv",
+		"/Users/swlee/Desktop/ddd.py",
+		"/Users/swlee/Desktop/ttt.py",
+		"/Users/swlee/Desktop/octave error.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"s2",
+			"s1",
+			"fe",
+			"s1s2n_hist",
+			"s2_dens",
+			"s2",
+			"XGSet2D",
+			"linlin",
+			"f(E)",
+			"fe",
+			"de",
+			"emin",
+			"fe",
+			"e_array",
+			"allocate",
+			"distribution",
+			"e_array",
+			"f(E)",
+			"XGCurve",
+			"percntr",
+			"250",
+			"distortion",
+			"pref.autoFitGuest"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 96.0,
+	"status_bar_visible": true
+}

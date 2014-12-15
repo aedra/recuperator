@@ -54,3 +54,5 @@ docs/_build/
 target/
 
 sftp-config.json
+
+recuperator.sublime-workspace
